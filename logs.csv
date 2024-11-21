@@ -1,6 +1,17 @@
+INFO,Aquest és un missatge d'info.
+INFO,Aquest és un missatge d'info.
+2024-11-21 18:38:11,INFO,Aquest és un missatge d'info.
+ERROR,Aquest és un missatge d'error.
+ERROR,Aquest és un missatge d'error.
+2024-11-21 18:38:11,ERROR,Aquest és un missatge d'error.
+INFO,Missatge mostrat per la terminal.
+INFO,Missatge mostrat per la terminal.
+2024-11-21 18:38:11,INFO,Missatge mostrat per la terminal.
 INFO,Missatge en format CSV.
-ERROR,Error en format CSV.
 INFO,Missatge en format CSV.
-INFO,Missatge en format CSV.
+2024-11-21 18:38:21,INFO,Missatge en format CSV.
+2024-11-21 18:38:21,INFO,Missatge en format CSV.
 ERROR,Error en format CSV.
 ERROR,Error en format CSV.
+2024-11-21 18:38:21,ERROR,Error en format CSV.
+2024-11-21 18:38:21,ERROR,Error en format CSV.
